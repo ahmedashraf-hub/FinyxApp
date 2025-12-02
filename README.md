@@ -7,9 +7,9 @@ A Flutter-based mobile application designed to help users take control of their 
 ### Onboarding Screens
 
 <div align="center">
-  <img src="screenshots/onboarding_1.png" width="250" alt="Take control of your finances">
-  <img src="screenshots/onboarding_2.png" width="250" alt="Welcome to Finyx">
-  <img src="screenshots/onboarding_3.png" width="250" alt="Plan your finances">
+  <img src="assets/images/screenshoots/WhatsApp Image 2025-12-02 at 21.53.57.jpeg" width="250" alt="Take control of your finances">
+  <img src="assets/images/screenshoots/WhatsApp Image 2025-12-02 at 21.53.58.jpeg" width="250" alt="Welcome to Finyx">
+  <img src="assets/images/screenshoots/WhatsApp Image 2025-12-02 at 21.53.58 (1).jpeg" width="250" alt="Plan your finances">
 </div>
 
 #### Screen 1: Take Control of Your Finances
